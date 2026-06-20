@@ -1,7 +1,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     printf("%ld\n", __STDC_VERSION__);
     return 0;
 }
